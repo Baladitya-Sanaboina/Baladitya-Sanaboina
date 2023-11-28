@@ -1,3 +1,4 @@
+[logo](https://github.com/Baladityasanaboina/Baladityasanaboina/blob/main/github2.png)
 <h1 align="center">Hi 👋, I'm Baladitya Sanaboina</h1>
 <h3 align="center">Full-Stack Devolper</h3>
 
