@@ -3,10 +3,7 @@
 <h3 align="center">Full-Stack Devolper</h3>
 
 <img align="right" alt= "coding" width = "400" src = "![logo](https://github.com/Baladityasanaboina/Baladityasanaboina/blob/main/github2.png)"/>
-<h1 align="center">Hi 👋, I'm Baladitya Sanaboina</h1>
-<h3 align="center">Full-Stack Devolper</h3>
 
-<img align="right" alt= "coding" width = "400" src = ""/>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=baladityasanaboina&label=Profile%20views&color=0e75b6&style=flat" alt="baladityasanaboina" /> </p>
 
 - 🌱 I’m currently learning **Full-Stack Web Development and DSA**
