@@ -2,10 +2,10 @@
 <h1 align="center">Hi 👋, I'm Baladitya Sanaboina</h1>
 <h3 align="center">Full-Stack Devolper</h3>
 
-<img align="right" alt= "coding" width = "400" src = "https://res.cloudinary.com/dbylngblb/image/upload/v1701167847/Git_Banner_xtsxip.jpg"/>
+<img align="right" alt= "coding" width = "400" src = "[https://res.cloudinary.com/dbylngblb/image/upload/v1701167847/Git_Banner_xtsxip.jpg](https://www.google.com/url?sa=i&url=https%3A%2F%2Ficonscout.com%2Flottie-animations%2Fprogrammer&psig=AOvVaw3Lqkl22Q2HyNZesPIbvO_v&ust=1701255231709000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCKCB6d7D5oIDFQAAAAAdAAAAABAJ)"/>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=baladityasanaboina&label=Profile%20views&color=0e75b6&style=flat" alt="baladityasanaboina" /> </p>
 
-- 🌱 I’m currently learning **Full-Stack Web Devoloment and DSA**
+- 🌱 I’m currently learning **Full-Stack Web Development and DSA**
 
 - 👨‍💻 All of my projects are available at [https://linktr.ee/baladitya_sanaboina](https://linktr.ee/baladitya_sanaboina)
 
