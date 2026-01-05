@@ -67,16 +67,18 @@
 
 ## 📊 GitHub Stats
 
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Baladitya-Sanaboina&show_icons=true&layout=compact" />
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Baladitya-Sanaboina&show_icons=true&theme=default&cache_seconds=86400" alt="GitHub Stats" />
 </p>
 
-<p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Baladitya-Sanaboina&show_icons=true" />
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Baladitya-Sanaboina&layout=compact&cache_seconds=86400" alt="Top Languages" />
 </p>
 
-<p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Baladitya-Sanaboina" />
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Baladitya-Sanaboina" alt="GitHub Streak" />
 </p>
 
 ---
